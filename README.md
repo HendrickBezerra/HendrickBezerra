@@ -1,5 +1,4 @@
-# 💫 About Me:
-🔭-Eu estou estudando programação “Front-End” de forma Autonoma<br>👯-Quero colaborar em projetos para ter mais “Experiencia e Conhecimento”<br>🤝-Oque estou estudando: HTML5, CSS 3, JAVASCRIPT.
+
 
 
 ## 🌐 Socials:

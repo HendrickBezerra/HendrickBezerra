@@ -1,10 +1,9 @@
 
-#
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=HendrickBezerra&theme=dark&hide_border=false&include_all_ommits=true&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=HendrickBezerra&theme=dark&hide_border=false&include_all_)
-<br>
+![](https://github-readme-stats.vercel.app/api?username=HendrickBezerra&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=HendrickBezerra&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HendrickBezerra&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<br>
 
 
 ## 🌐 Socials: # 💻 Tech Stack:
